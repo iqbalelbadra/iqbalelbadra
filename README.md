@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqbalelbadra
-- 👀 I’m interested in PHP, Website Development, Framework.
-- 🌱 I’m currently learning Python, JavaScript.
+- 👀 I’m interested in PHP, Website Development, Framework,.
+- 🌱 I’m currently learning Python, JavaScript, Data Science, ML (NLP).
 - 💞️ I’m looking to collaborate on -
 
 
